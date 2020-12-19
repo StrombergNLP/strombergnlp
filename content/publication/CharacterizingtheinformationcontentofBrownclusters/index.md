@@ -7,7 +7,7 @@ authors:
 date: "2019-01-01T00:00:00Z"
 doi: ""
 publication_types: ["2"]
-publication: Abstracts of the first EurNLP
+publication: "Abstracts of the first EurNLP"
 abstract: 
 summary: 
 

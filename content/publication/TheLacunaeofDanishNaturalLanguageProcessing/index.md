@@ -8,7 +8,7 @@ authors:
 date: "2019-01-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
-publication: Proceedings of the Nordic Conference on Computational Linguistics (NODALIDA)
+publication: "Proceedings of the Nordic Conference on Computational Linguistics (NODALIDA)"
 abstract: 
 summary: 
 

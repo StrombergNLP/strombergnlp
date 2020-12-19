@@ -5,7 +5,7 @@ authors:
 date: "2020-01-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
-publication: arXiv preprint arXiv:2006.07237
+publication: "arXiv preprint arXiv:2006.07237"
 abstract: 
 summary: 
 

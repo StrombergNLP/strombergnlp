@@ -6,7 +6,7 @@ authors:
 date: "2020-01-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
-publication: arXiv:2012.06431
+publication: "arXiv:2012.06431"
 abstract: 
 summary: 
 

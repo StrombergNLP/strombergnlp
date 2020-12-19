@@ -7,7 +7,7 @@ authors:
 date: "2020-01-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
-publication: Proceedings of the Third Workshop on Fact Extraction and Verification (fever)
+publication: "Proceedings of the Third Workshop on Fact Extraction and Verification (fever)"
 abstract: 
 summary: 
 

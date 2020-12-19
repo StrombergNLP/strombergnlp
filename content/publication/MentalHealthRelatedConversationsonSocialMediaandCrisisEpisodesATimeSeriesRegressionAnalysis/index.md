@@ -12,7 +12,7 @@ authors:
 date: "2020-01-01T00:00:00Z"
 doi: ""
 publication_types: ["2"]
-publication: Nature Scientific Reports
+publication: "Nature Scientific Reports"
 abstract: 
 summary: 
 

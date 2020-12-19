@@ -7,7 +7,7 @@ authors:
 date: "2020-01-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
-publication: Proceedings of LREC
+publication: "Proceedings of LREC"
 abstract: 
 summary: 
 

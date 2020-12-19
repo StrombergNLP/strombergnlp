@@ -5,7 +5,7 @@ authors:
 date: "2019-01-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
-publication: arXiv preprint arXiv:1906.11608
+publication: "arXiv preprint arXiv:1906.11608"
 abstract: 
 summary: 
 
