@@ -12,6 +12,7 @@ role: PhD student
 organizations:
 - name: ITU Copenhagen
   url: ""  
+- name: Tjek AS
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mateusz researches in neural set-to-sequence models and catalogue/sequence optimisation.
