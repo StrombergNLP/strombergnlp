@@ -2,15 +2,19 @@
 title: Accelerated High-Quality Mutual-Information Based Word Clustering
 authors:
 - maci
-- Assent, Ira
+- Ira Assent
 - admin
-date: 2020
+date: "2020-01-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: Proceedings of LREC
 abstract: 
 summary: 
-tags: 
+
+
+tags:
+#- Source Themes
+#featured: true
 
 links:
 #- name: Custom Link
