@@ -1,5 +1,5 @@
 ---
-title: Bornholmsk Natural Language Processing: Resources and Tools
+title: "Bornholmsk Natural Language Processing: Resources and Tools"
 authors:
 - admin
 - Alex Speed Kjeldsen
