@@ -11,7 +11,7 @@ authors:
 - Rasmus Hvingelby
 - Andreas Kirkedal
 - Alex Speed Kjeldsen
-date: "2020-01-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
 publication: "arXiv preprint arXiv:2005.03521"
@@ -24,8 +24,8 @@ tags:
 #featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Project
+  url: https://gigaword.dk
 #url_pdf: '#'
 #url_code: '#'
 #url_dataset: '#'

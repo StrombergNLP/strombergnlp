@@ -2,7 +2,7 @@
 title: "Simple Natural Language Processing Tools for Danish"
 authors:
 - admin
-date: "2019-01-01T00:00:00Z"
+date: "2019-06-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
 publication: "arXiv preprint arXiv:1906.11608"
@@ -17,7 +17,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: '#'
+url_pdf: 'https://arxiv.org/pdf/1906.11608'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

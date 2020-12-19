@@ -1,13 +1,13 @@
 ---
 title: "Discriminating Between Similar Nordic Languages"
 authors:
-- René Haas
+- renha
 - admin
-date: "2020-01-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
 publication: "arXiv:2012.06431"
-abstract: 
+abstract: This paper introduces language processing resources and tools for Bornholmsk, a language spoken on the island of Bornholm, with roots in Danish and closely related to Scanian. This presents an overview of the language and available data, and the first NLP models for this living, minority Nordic language. -- Sammenfattnijng på borrijnholmst: Dæjnna artikkelijn introduserer natursprågsresurser å varktoi for borrijnholmst, ed språg a dær snakkes på ön Borrijnholm me rødder i danst å i nær familia me skånst. Artikkelijn gjer ed âuersyn âuer språged å di datan som fijnnes, å di fosste NLP modællarna for dætta læwenes nordiska minnretâlsspråged.
 summary: 
 
 
@@ -18,7 +18,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: '#'
+url_pdf: 'https://www.aclweb.org/anthology/W19-6138.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

@@ -3,7 +3,7 @@ title: "Bornholmsk Natural Language Processing: Resources and Tools"
 authors:
 - admin
 - Alex Speed Kjeldsen
-date: "2019-01-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: "Proceedings of the Nordic Conference on Computational Linguistics (NODALIDA)"

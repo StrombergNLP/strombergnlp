@@ -7,7 +7,7 @@ authors:
 - Nanna Inie
 - Viktor Due Pedersen
 - Jens Egholm Pedersen
-date: "2019-01-01T00:00:00Z"
+date: "2019-10-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: "Proceedings of the first conference for Truth and Trust Online (TTO)"
@@ -22,7 +22,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: '#'
+url_pdf: 'http://www.derczynski.com/papers/fv19_tto.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
