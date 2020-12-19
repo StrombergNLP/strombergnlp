@@ -1,5 +1,5 @@
 ---
-title: Offensive Language and Hate Speech Detection for Danish
+title: "Offensive Language and Hate Speech Detection for Danish"
 authors:
 - Gudbjartur Ingi Sigurbergsson
 - admin

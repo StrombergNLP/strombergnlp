@@ -1,5 +1,5 @@
 ---
-title: Joint Rumour Stance and Veracity
+title: "Joint Rumour Stance and Veracity"
 authors:
 - Anders Edelbo Lillie
 - Emil Refsgaard Middelboe

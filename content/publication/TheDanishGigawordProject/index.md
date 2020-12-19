@@ -1,5 +1,5 @@
 ---
-title: The Danish Gigaword Project
+title: "The Danish Gigaword Project"
 authors:
 - admin
 - Rebekah Baglini

@@ -1,5 +1,5 @@
 ---
-title: Accelerated High-Quality Mutual-Information Based Word Clustering
+title: "Accelerated High-Quality Mutual-Information Based Word Clustering"
 authors:
 - maci
 - Ira Assent

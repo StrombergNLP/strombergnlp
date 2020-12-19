@@ -1,5 +1,5 @@
 ---
-title: SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020)
+title: "SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020)"
 authors:
 - M Zampieri
 - P Nakov

@@ -1,5 +1,5 @@
 ---
-title: Characterizing the information content of Brown clusters
+title: "Characterizing the information content of Brown clusters"
 authors:
 - maci
 - admin

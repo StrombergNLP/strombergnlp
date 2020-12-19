@@ -1,5 +1,5 @@
 ---
-title: Misinformation on Twitter During the Danish National Election: A Case Study
+title: "Misinformation on Twitter During the Danish National Election: A Case Study"
 authors:
 - admin
 - Torben Oskar Albert-Lindqvist

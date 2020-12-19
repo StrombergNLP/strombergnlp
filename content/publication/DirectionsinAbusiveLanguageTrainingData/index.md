@@ -1,5 +1,5 @@
 ---
-title: Directions in Abusive Language Training Data
+title: "Directions in Abusive Language Training Data"
 authors:
 - Bertie Vidgen
 - admin

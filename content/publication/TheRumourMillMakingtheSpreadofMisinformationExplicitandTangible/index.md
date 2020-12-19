@@ -1,5 +1,5 @@
 ---
-title: The Rumour Mill: Making the Spread of Misinformation Explicit and Tangible
+title: "The Rumour Mill: Making the Spread of Misinformation Explicit and Tangible"
 authors:
 - Nanna Inie
 - Jeanette Falk Olesen

@@ -1,5 +1,5 @@
 ---
-title: Detection and Resolution of Rumors and Misinformation with NLP
+title: "Detection and Resolution of Rumors and Misinformation with NLP"
 authors:
 - admin
 - Arkaitz Zubiaga

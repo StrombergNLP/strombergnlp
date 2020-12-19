@@ -1,5 +1,5 @@
 ---
-title: Simple Natural Language Processing Tools for Danish
+title: "Simple Natural Language Processing Tools for Danish"
 authors:
 - admin
 date: "2019-01-01T00:00:00Z"

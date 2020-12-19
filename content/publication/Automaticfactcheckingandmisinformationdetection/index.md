@@ -1,5 +1,5 @@
 ---
-title: Automatic fact checking and misinformation detection
+title: "Automatic fact checking and misinformation detection"
 authors:
 - admin
 - Kalina Bontcheva

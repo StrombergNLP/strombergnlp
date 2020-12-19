@@ -1,5 +1,5 @@
 ---
-title: Mental Health-Related Conversations on Social Media and Crisis Episodes: A Time-Series Regression Analysis
+title: "Mental Health-Related Conversations on Social Media and Crisis Episodes: A Time-Series Regression Analysis"
 authors:
 - Anna Kolliakou
 - Ioannis Bakolis

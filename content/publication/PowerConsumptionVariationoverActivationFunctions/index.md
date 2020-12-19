@@ -1,5 +1,5 @@
 ---
-title: Power Consumption Variation over Activation Functions
+title: "Power Consumption Variation over Activation Functions"
 authors:
 - admin
 date: "2020-01-01T00:00:00Z"

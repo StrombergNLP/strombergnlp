@@ -1,5 +1,5 @@
 ---
-title: Discriminating Between Similar Nordic Languages
+title: "Discriminating Between Similar Nordic Languages"
 authors:
 - René Haas
 - admin

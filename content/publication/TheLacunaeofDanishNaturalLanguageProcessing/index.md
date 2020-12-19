@@ -1,5 +1,5 @@
 ---
-title: The Lacunae of Danish Natural Language Processing
+title: "The Lacunae of Danish Natural Language Processing"
 authors:
 - Andreas Kirkedal
 - Barbara Plank

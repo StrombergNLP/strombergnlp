@@ -1,5 +1,5 @@
 ---
-title: Maintaining Quality in FEVER Annotation
+title: "Maintaining Quality in FEVER Annotation"
 authors:
 - Henri Schulte
 - Julie Binau

@@ -1,5 +1,5 @@
 ---
-title: Political Stance in Danish
+title: "Political Stance in Danish"
 authors:
 - Rasmus Lehmann
 - admin
