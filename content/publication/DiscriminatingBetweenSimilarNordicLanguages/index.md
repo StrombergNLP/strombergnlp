@@ -7,7 +7,7 @@ date: "2020-12-01T00:00:00Z"
 doi: ""
 publication_types: ["3"]
 publication: "arXiv:2012.06431"
-abstract: 	
+abstract: "Automatic language identification is a challenging problem. Discriminating between closely related languages is especially difficult. This paper presents a machine learning approach for automatic language identification for the Nordic languages, which often suffer miscategorisation by existing state-of-the-art tools. Concretely we will focus on discrimination between six Nordic languages: Danish, Swedish, Norwegian (Nynorsk), Norwegian (Bokmål), Faroese and Icelandic."	
 summary: 
 
 
