@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -31,4 +31,4 @@ design:
 title: "NLPL"
 ---
 
-NLPL: 2017-2020, NordForsk. [www.nlpl.eu]. Nordic Language Processing Laboratory. A cross-Nordic collaboration of high-performance computing resources and natural language processing resources, between universities and e-infrastructure organisations.
+NLPL: 2017-2020, NordForsk. [www.nlpl.eu](www.nlpl.eu). Nordic Language Processing Laboratory. A cross-Nordic collaboration of high-performance computing resources and natural language processing resources, between universities and e-infrastructure organisations.

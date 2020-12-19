@@ -31,4 +31,4 @@ design:
 title: "LITHME"
 ---
 
-Language in the Human-Machine Era: 2020-2023, COST. [www.lithem.eu]. This cross-European project looks at the impact of technology on how we use, study, and understand lanuage.
+Language in the Human-Machine Era: 2020-2023, COST. [www.lithme.eu](www.lithme.eu). This cross-European project looks at the impact of technology on how we use, study, and understand lanuage.
