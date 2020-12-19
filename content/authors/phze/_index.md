@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Philine research is on gender bias, semantic annotation, and cross-lingual projection.
+bio: Philine's research is on gender bias, semantic annotation, and cross-lingual projection.
 
 # Social/Academic Networking
 social:

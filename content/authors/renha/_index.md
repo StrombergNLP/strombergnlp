@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Mateusz Jurewicz
+title: René Haas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: Grad student
 
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""  
+  url: "https://pure.itu.dk/portal/en/persons/rene-haas(c7b50544-1d42-48e7-b386-48262f635366).html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mateusz researches in neural set-to-sequence models and catalogue/sequence optimisation.
+bio: René worked on sample-efficient discrimination between similar languages.
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maju@itu.dk'
+  link: 'mailto:renha@itu.dk'
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+#  link: https://twitter.com/PhilineZeinert
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=pCsDJKkAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mateuszjurewicz
+#  link: https://scholar.google.com/citations?user=Nu351ugAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/NorthGuard
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -45,6 +45,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad student
+- Alumni
 ---
 

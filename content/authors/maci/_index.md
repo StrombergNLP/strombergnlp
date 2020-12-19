@@ -15,7 +15,7 @@ organizations:
 - name: University of Southern California
 
 # Short bio (displayed in user profile at end of posts)
-bio: Manuel researches in temporal information extraction, story structure, and information-theoretic methods.
+bio: Manuel researches in temporal semantics, story structure, and information-theoretic methods.
 
 # Social/Academic Networking
 social:
@@ -46,6 +46,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+#- Alumni
+- Researchers
 ---
 
