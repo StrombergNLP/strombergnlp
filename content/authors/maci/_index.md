@@ -1,35 +1,36 @@
 ---
 # Display name
-title: Leon Derczynski
+title: Manuel Ciosici
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor of Computer Science
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
   url: ""
+- name: University of Southern California
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include green AI, social media analysis, NLP for misinformation detection and verification, clinical record processing, and online harms
+bio: Manuel researches in temporal information extraction, story structure, and information-theoretic methods.
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ld@itu.dk'
+  link: 'mailto:maci@itu.dk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/LeonDerczynski
+  link: https://twitter.com/manuelciosici
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=d8iwqa8AAAAJ
+  link: https://scholar.google.com/citations?user=vseIg5YAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/leondz
+  link: https://github.com/manuelciosici
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -45,5 +46,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Members
 ---
+

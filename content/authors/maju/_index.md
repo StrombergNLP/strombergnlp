@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Leon Derczynski
+title: Mateusz Jurewicz
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor of Computer Science
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""
+  url: ""  
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include green AI, social media analysis, NLP for misinformation detection and verification, clinical record processing, and online harms
+bio: Mateusz researches in neural set-to-sequence models and catalogue optimisation.
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ld@itu.dk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/LeonDerczynski
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=d8iwqa8AAAAJ
+  link: 'mailto:maju@itu.dk'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=pCsDJKkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/leondz
+  link: https://github.com/mateuszjurewicz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -45,5 +45,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Members
 ---
+
