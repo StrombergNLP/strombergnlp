@@ -3,10 +3,10 @@ title: "Discriminating Between Similar Nordic Languages"
 authors:
 - renha
 - admin
-date: "2020-12-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 doi: ""
-publication_types: ["3"]
-publication: "arXiv:2012.06431"
+publication_types: ["1"]
+publication: "Proceedings of the Workshop on NLP for Similar Languages, Varieties and Dialects	"
 abstract: "Automatic language identification is a challenging problem. Discriminating between closely related languages is especially difficult. This paper presents a machine learning approach for automatic language identification for the Nordic languages, which often suffer miscategorisation by existing state-of-the-art tools. Concretely we will focus on discrimination between six Nordic languages: Danish, Swedish, Norwegian (Nynorsk), Norwegian (Bokmål), Faroese and Icelandic."	
 summary: 
 
@@ -18,7 +18,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'https://www.aclweb.org/anthology/W19-6138.pdf'
+url_pdf: 'http://www.derczynski.com/papers/nordic_dsl.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
