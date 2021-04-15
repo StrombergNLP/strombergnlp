@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Strømberg NLP"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: cph.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Strømberg NLP is a center of excellence for natural language processing research, teaching, and practice, located at the IT University of Copenhagen.
+Strømberg NLP is a center of excellence for natural language processing research, teaching, and practice, located at the IT University of Copenhagen, and led by Leon Derczynski.
