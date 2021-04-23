@@ -19,11 +19,11 @@ advanced:
 
 ## Research themes
 
-# [Online harms](project/onlineharms)
+# Online harms
 
-We research into risks and harms online: misinformation, propaganda, bullying, abusive language, and so on. Our research covers data, machine learning methods, and interventions.
+We research into risks and harms online: misinformation, propaganda, bullying, abusive language, and so on. Our research covers data creation, machine learning methods, and possible interventions.
 
-# [Efficient machine learning](project/efficient)
+# Efficient machine learning
 
 We shouldn't need to burn the earth down to process text, especially with today's efficient computers. We research into efficient methods for NLP and mahcine learning, making them faster and greener.
 
