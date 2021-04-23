@@ -6,8 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 15  # Order that this section will appear.
-title: ""
-subtitle: ""
+title: "Research themes"
 #hero_media: cph.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,20 +16,19 @@ advanced:
   css_class:
 ---
 
-## Research themes
 
-# Online harms
+## Online harms
 
-We research into risks and harms online: misinformation, propaganda, bullying, abusive language, and so on. Our research covers data creation, machine learning methods, and possible interventions.
+Risks and harms online are dangerous: misinformation, propaganda, bullying, abuse. We research data and methods for detecting and analysing harms.
 
-# Efficient machine learning
+## Efficient machine learning
 
 We shouldn't need to burn the earth down to process text, especially with today's efficient computers. We research into efficient methods for NLP and mahcine learning, making them faster and greener.
 
-# [Clinical NLP](project/clinical)
+## [Clinical NLP](project/clinical)
 
 Our research into clinical text processing covers both automatic reading of clinical journals and text processing to support public health and diagnoses.
 
-# [NLP for Danish](project/danish)
+## [NLP for Danish](project/danish)
 
-Denmark isn't large, so Danish speakers won't have access to the same technology as English users do without some serious work. We contribute our part for Danish NLP research.
+Danish speakers should have access to good language technology. We contribute our part for Danish NLP research.
