@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Strømberg NLP is a center of excellence for natural language processing research, teaching, and practice, located at the IT University of Copenhagen, and led by Leon Derczynski.
+Strømberg NLP is a natural language processing research unit led at the IT University of Copenhagen, as part of the [ITU NLP](https://nlp.itu.dk/) research group. We consist of grad students, research assistants, PhD fellows, and postdoctoral researchers.
