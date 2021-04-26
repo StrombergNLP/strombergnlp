@@ -3,7 +3,7 @@ title: "DanFEVER: claim verification dataset for Danish"
 authors:
 - jeno
 - admin
-date: "2021-04-01T00:00:00Z"
+date: "2021-04-13T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: "Proceedings of NODALIDA	"
