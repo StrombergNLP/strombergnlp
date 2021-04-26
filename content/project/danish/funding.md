@@ -12,7 +12,7 @@ It’s hard to develop good tools processing Danish with computers when no large
 
 See [gigaword.dk](https://gigaword.dk) for releases and further info.
 
-PI: [Leon Derczynski](/author/leon-derczynski/); Co-I: [Manuel R. Ciosici](/author/manuel-ciosici/).
+PI: [Leon Derczynski](/author/leon-derczynski/); Co-I: [Manuel R. Ciosici](/author/manuel-r.-ciosici/).
 
 ## [LITHME](https://lithme.eu)
 
