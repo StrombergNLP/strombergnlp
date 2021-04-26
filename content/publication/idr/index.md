@@ -3,7 +3,7 @@ title: "An IDR Framework of Opportunities and Barriers between HCI and NLP"
 authors:
 - "Nanna Inie"
 - admin
-date: "2021-04-01T00:00:00Z"
+date: "2021-04-20T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: "Proceedings of the workshop on Bridging Human-Computer Interaction and Natural Language Processing"
@@ -27,7 +27,7 @@ links:
 url_pdf: 'http://www.derczynski.com/papers/hci_nlp_idr.pdf'
 #url_code: '#'
 #url_dataset: '#'
-#url_poster: '#'
+url_poster: '/publication/idr/featured.png'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
