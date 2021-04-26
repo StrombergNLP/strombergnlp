@@ -6,7 +6,7 @@ title: Gudbjartur Sigurbergsson
 superuser: false
 
 # Role/position
-role: 
+role: Grad student
 
 # Organizations/Affiliations
 organizations:

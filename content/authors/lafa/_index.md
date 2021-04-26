@@ -10,8 +10,8 @@ role: Grad student
 
 # Organizations/Affiliations
 organizations:
-- name: ITU Copenhagen
-  url: "https://pure.itu.dk/portal/en/persons/rene-haas(c7b50544-1d42-48e7-b386-48262f635366).html"
+- name: DR Danmarks Radio
+  url: "https://dk.linkedin.com/in/lasse-funder-andersen-ba240613"
 
 # Short bio (displayed in user profile at end of posts)
 bio: René worked on sample-efficient discrimination between similar languages.
