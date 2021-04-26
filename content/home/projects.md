@@ -17,11 +17,11 @@ advanced:
 ---
 
 
-## Online harms
+## [Online harms](project/onlineharms)
 
 Risks and harms online are dangerous: misinformation, propaganda, bullying, abuse. We research data and methods for detecting and analysing harms.
 
-## Efficient machine learning
+## [Efficient machine learning](project/efficient)
 
 We shouldn't need to burn the earth down to process text, especially with today's efficient computers. We research into efficient methods for NLP and mahcine learning, making them faster and greener.
 
