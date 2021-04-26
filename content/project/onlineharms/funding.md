@@ -1,13 +1,15 @@
 ---
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 44  # Order that this section will appear.
+weight: 14  # Order that this section will appear.
 title: "Projects"
 ---
 
 ## Abusive Language Detection
 
-*ITU Computer Science - internal, 285.000 DKK*
+*ITU Computer Science - internal, 285.000 DKK, 2020*
+
+A project on automatic detection of bad online behaviour, including harassment, abusive language, and hate speech. The project goal is to build automatic systems and analyses for identifying this kind of behaviour, to be used to limit and address this problem by drawing attention to and allowing effective human moderation of these harmful social behaviours.
 
 ## Verif-AI
 
