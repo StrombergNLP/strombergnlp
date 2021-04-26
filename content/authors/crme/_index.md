@@ -11,7 +11,7 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""
+  url: "https://pure.itu.dk/portal/en/persons/cristina-meli(1015888f-f853-4595-b3d1-84d525060f4d).html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Cristina researches in machine learning for clinical applications and neural natural language generation.

@@ -11,7 +11,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""
+  url: "https://pure.itu.dk/portal/en/persons/philine-zeinert(91ad18c2-ec3c-4c44-b571-567dcc8cf3df).html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Philine's research is on gender bias, semantic annotation, and cross-lingual projection.

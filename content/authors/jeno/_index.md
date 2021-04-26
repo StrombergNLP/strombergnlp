@@ -11,7 +11,7 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""
+  url: "https://pure.itu.dk/portal/en/persons/jeppe-noerregaard(df396ea8-ad68-4b7b-8cd4-bbb563c5e280).html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jeppe researches in automatic misinformation, automatic verification, and machine learning.

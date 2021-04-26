@@ -11,8 +11,9 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""  
+  url: "https://pure.itu.dk/portal/en/persons/mateusz-jurewicz(25d8c591-e717-4384-946a-c511595c907e).html"
 - name: Tjek AS
+  url: "https://tjek.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mateusz researches in neural set-to-sequence models and catalogue/sequence optimisation.

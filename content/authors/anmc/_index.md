@@ -6,13 +6,14 @@ title: Anders McIlquham-Schmidt
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD fellow
 
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: ""  
+  url: "https://pure.itu.dk/portal/en/persons/anders-mcilquhamschmidt(bacc9459-d84a-4368-89e2-24f4260d2d80).html"
 - name: Copenhagen Business School
+  url: "https://cbs-executive.dk/faculty/anders-mcilquham-schmidt/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mateusz researches in neural set-to-sequence models and catalogue/sequence optimisation.
@@ -25,9 +26,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=pCsDJKkAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=em07_C4AAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/mateuszjurewicz
