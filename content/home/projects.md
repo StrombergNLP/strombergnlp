@@ -31,8 +31,8 @@ Our research into clinical text processing covers both automatic reading of clin
 
 ## [NLP for Danish](project/danish)
 
-Danish speakers should have access to good language technology. We contribute our part for Danish NLP research.
+Danish users should have access to good language technology. We contribute our part for Danish NLP research.
 
-## Generation
+## [Generation](project/generation)
 
 Generating language is complex and processing the structures involved requires creative machine learning.
