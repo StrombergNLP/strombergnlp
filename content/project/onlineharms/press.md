@@ -1,7 +1,7 @@
 ---
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 50  # Order that this section will appear.
+weight: 22  # Order that this section will appear.
 title: "Press"
 ---
 

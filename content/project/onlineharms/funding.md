@@ -1,9 +1,13 @@
 ---
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 30  # Order that this section will appear.
+weight: 44  # Order that this section will appear.
 title: "Projects"
 ---
+
+## Abusive Language Detection
+
+*ITU Computer Science - internal, 285.000 DKK*
 
 ## Verif-AI
 
@@ -15,3 +19,9 @@ approach to address this. The project researches multi-lingual fact extraction a
 verification. We identify multi-linguality as a scaling bottleneck in automated fact
 checking, and select fact verification as the route toward addressing propaganda
 and misinformation.
+
+## Multi-Stance
+
+*ITU Computer Science - internal, $43,000 USD, 2019-2020*
+
+While many pieces of misinformation can be spotted through their origin or comparison with an external source, emerging and fringe information is harder to ground and verify. This means that not all emerging claims can be checked, leading to a gap where misinformation and manipulation may exist undisturbed. This gap should be addressed.
