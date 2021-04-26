@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Strømberg NLP is a research unit at the IT University of Copenhagen. We are grad students, research assistants, PhD fellows, postdoctoral researchers, and faculty, investiating machine learning and natural language processing.
+Strømberg NLP is a research unit at the IT University of Copenhagen. We are grad students, research assistants, PhD fellows, postdoctoral researchers, and faculty, researching machine learning and natural language processing.
