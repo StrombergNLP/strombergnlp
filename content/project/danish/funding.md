@@ -8,7 +8,11 @@ visible: false
 
 ## [Danish Gigaword](https://gigaword.dk)
 
-It’s hard to develop good tools processing Danish with computers when no large and wide-coverage dataset of Danish text is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. PI: Leon Derczynski.
+It’s hard to develop good tools processing Danish with computers when no large and wide-coverage dataset of Danish text is readily available. To address this, the Danish Gigaword Project (DAGW) maintains a corpus for Danish with over a billion words. 
+
+
+See [gigaword.dk](https://gigaword.dk) for releases and further info.
+PI: Leon Derczynski; Co-I: Manuel R. Ciosici.
 
 ## [LITHME](https://lithme.eu)
 
