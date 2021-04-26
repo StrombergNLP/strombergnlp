@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Manuel Ciosici
+title: Manuel R. Ciosici
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,7 +12,7 @@ role: Postdoc
 organizations:
 - name: ITU Copenhagen
   url: ""
-- name: University of Southern California
+- name: University of Southern California, Information Sciences Institute
 
 # Short bio (displayed in user profile at end of posts)
 bio: Manuel researches in temporal semantics, story structure, and information-theoretic methods.
