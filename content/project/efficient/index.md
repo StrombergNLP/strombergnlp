@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Efficient"
+title: "Efficient AI"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-04-23T09:55:42+02:00
+date: 2021-04-23T09:55:51+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,4 +38,5 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+type: widget_page
 ---

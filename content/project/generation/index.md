@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Online harms"
+title: "Generation"
 summary: ""
 authors: []
 tags: []
