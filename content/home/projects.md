@@ -19,11 +19,11 @@ advanced:
 
 ## [Online harms](project/onlineharms)
 
-Risks and harms online are dangerous: misinformation, propaganda, bullying, abuse. We research data and methods for detecting and analysing harms.
+Risks online come from many sources: misinformation, propaganda, bullying, abuse. We research data and methods for detecting and analysing harms.
 
 ## [Efficient machine learning](project/efficient)
 
-We shouldn't need to burn the earth down to process text, especially with today's efficient computers. We research into efficient methods for NLP and mahcine learning, making them faster and greener.
+We don't need to burn the world down to process text, especially with today's computers. We research fast and green methods for NLP &amp; machine learning.
 
 ## [Clinical NLP](project/clinical)
 
