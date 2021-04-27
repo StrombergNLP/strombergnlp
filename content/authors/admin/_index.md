@@ -11,10 +11,10 @@ role: Associate Professor of Computer Science
 # Organizations/Affiliations
 organizations:
 - name: ITU Copenhagen
-  url: "www.derczynski.com/itu"
+  url: "https://www.derczynski.com/itu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include green AI, social media analysis, NLP for misinformation detection and verification, clinical record processing, and online harms
+bio: My research interests include NLP for misinformation detection and verification, clinical record processing, online harms, and efficient AI.
 
 # Social/Academic Networking
 social:
