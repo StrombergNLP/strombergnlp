@@ -23,7 +23,7 @@ Risks online come from many sources: misinformation, propaganda, bullying, abuse
 
 ## [Efficient machine learning](project/efficient)
 
-We don't need to burn the world down to process text, especially with today's computers. We research fast and green methods for NLP &amp; machine learning.
+Processing text doesn't have to demand vast amounts of energy, especially with today's tech. We research fast and green methods for NLP &amp; machine learning.
 
 ## [Clinical NLP](project/clinical)
 
@@ -31,8 +31,8 @@ Our research into clinical text processing covers both automatic reading of clin
 
 ## [NLP for Danish](project/danish)
 
-Danish users should have access to good language technology. We contribute our part for Danish NLP research.
+Danish users should have access to modern language technology. We make our contribution to advancing Danish NLP research.
 
 ## [Generation](project/generation)
 
-Generating language is complex and processing the structures involved requires creative machine learning.
+Generating language is complex, and processing the structures involved requires powerful, creative models. We research learning to generate sequences from data.
