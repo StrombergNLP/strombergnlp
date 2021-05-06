@@ -19,6 +19,7 @@ title: "Publications"
 
 ## Abusive Language
 
+* [Annotating Online Misogyny](/publication/aom/), 2021.
 * [Abusive Language Recognition in Russian](/publication/ablang_russian/), 2021.
 * [Directions in abusive language training data, a systematic review: Garbage in, garbage out](/publication/directions/), 2020.
 * [SemEval-2020 Task 12: Multilingual Offensive Language Identification in Social Media (OffensEval 2020)](/publication/semevaltaskmultilingualoffensivelanguageidentificationinsocialmediaoffenseval/), 2020.
