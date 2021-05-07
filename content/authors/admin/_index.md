@@ -6,7 +6,7 @@ title: Leon Derczynski
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Science
+role: Associate professor
 
 # Organizations/Affiliations
 organizations:

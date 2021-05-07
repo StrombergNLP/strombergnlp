@@ -6,7 +6,7 @@ title: Mateusz Jurewicz
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD fellow
 
 # Organizations/Affiliations
 organizations:
