@@ -6,3 +6,4 @@ title: "Theses"
 ---
 * Featherweight NLP: Tolerable Lower Limits for Size of Transformer Language Models. Magnus Malthe Jacobsen, Mikkel Hooge Sørensen, 2021, MSc
 * Low-carbon NLP Models. Lucas Høyberg Puvis de Chavannes, Mads Guldborg Kjeldgaard Kongsbak, Timmie Mikkel Rantzau Lagermann, 2021, MSc
+* Smart Charging of Electric Scooters Using Real-Time Electricity GHG Emissions. Markus Killendahl, Felix Dawids Qvist, 2021, BSc
