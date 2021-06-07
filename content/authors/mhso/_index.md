@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: René worked on sample-efficient discrimination between similar languages.
+bio: Mikkel works on efficient, small machine learning
 
 # Social/Academic Networking
 social:
