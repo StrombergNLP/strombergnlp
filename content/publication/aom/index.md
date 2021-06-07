@@ -8,7 +8,7 @@ date: "2021-05-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: "Proceedings of ACL"
-abstract: ""	
+abstract: "Online misogyny, a category of online abusive language, has serious and harmful social consequences. Automatic detection of misogynistic language online, while imperative, poses complicated challenges to both data gathering, data annotation, and bias mitigation, as this type of data is linguistically complex and diverse. This paper makes three contributions in this area: Firstly, we describe the detailed design of our iterative annotation process and codebook. Secondly, we present a comprehensive taxonomy of labels for annotating misogyny in natural written language, and finally, we introduce a high-quality dataset of annotated posts sampled from social media posts."	
 summary: 
 
 
@@ -19,9 +19,9 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: '#'
+url_pdf: 'http://www.derczynski.com/papers/annotating_online_misogyny.pdf'
 #url_code: '#'
-#url_dataset: '#'
+url_dataset: 'https://github.com/phze22/bajer_data'
 #url_poster: '#'
 #url_project: ''
 #url_slides: ''
