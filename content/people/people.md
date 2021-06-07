@@ -10,7 +10,6 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle:
 
 content:
   # Choose which groups/teams of users to display.
