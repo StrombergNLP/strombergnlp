@@ -11,7 +11,7 @@ date: "2019-10-01T00:00:00Z"
 doi: ""
 publication_types: ["1"]
 publication: "Proceedings of the first conference for Truth and Trust Online (TTO)"
-abstract: 
+abstract: "Elections are a time when communication is important in democracies, including over social media. This paper describes a case study of applying NLP to determine the extent to which misinformation and external manipulation were present on Twitter during a national election. We use three methods to detect the spread of misinformation: analysing unusual spatial and temporal behaviours; detecting known false claims and using these to estimate the total prevalence; and detecting amplifiers through language use. We find that while present, detectable spread of misinformation on Twitter was remarkably low during the election period in Denmark."
 summary: 
 
 
