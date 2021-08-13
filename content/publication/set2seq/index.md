@@ -3,8 +3,8 @@ title: "Set-to-Sequence Methods in Machine Learning: a Review"
 authors:
 - maju
 - admin
-date: "2021-04-01T00:00:00Z"
-doi: ""
+date: "2021-08-12T00:00:00Z"
+doi: "https://doi.org/10.1613/jair.1.12839"
 publication_types: ["1"]
 publication: "Journal of Artificial Intelligence Research"
 abstract: "Machine learning on sets towards sequential output is an important and ubiquitous task, with applications ranging from language modelling and meta-learning to multi-agent strategy games and power grid optimization. Combining elements of representation learning and structured prediction, its two primary challenges include obtaining a meaningful, permutation invariant set representation and subsequently utilizing this representation to output a complex target permutation. This paper provides a comprehensive introduction to the field as well as an overview of important machine learning methods tackling both of these key challenges, with a detailed qualitative comparison of selected model architectures."	
@@ -18,7 +18,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 'https://arxiv.org/pdf/2103.09656'
+url_pdf: 'https://jair.org/index.php/jair/article/view/12839'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
