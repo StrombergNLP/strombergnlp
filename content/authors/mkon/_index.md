@@ -6,7 +6,7 @@ title: Mads Guldborg Kjeldgaard Kongsbak
 superuser: false
 
 # Role/position
-role: Grad student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: René worked on sample-efficient discrimination between similar languages.
+bio: Mads' work focuses on efficient neural language model architectures
 
 # Social/Academic Networking
 social:

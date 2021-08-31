@@ -6,7 +6,7 @@ title: Timmie Mikkel Lagermann Nielsen
 superuser: false
 
 # Role/position
-role: Grad student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: René worked on sample-efficient discrimination between similar languages.
+bio: Timmie worked on energy efficiency in transformer language models
 
 # Social/Academic Networking
 social:

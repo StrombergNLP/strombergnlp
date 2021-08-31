@@ -6,7 +6,7 @@ title: Lasse Funder Andersen
 superuser: false
 
 # Role/position
-role: Grad student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://dk.linkedin.com/in/lasse-funder-andersen-ba240613"
 
 # Short bio (displayed in user profile at end of posts)
-bio: René worked on sample-efficient discrimination between similar languages.
+bio: Lasse worked on learning to identify quote-worthy excerpts of conversations
 
 # Social/Academic Networking
 social:
