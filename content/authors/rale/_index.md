@@ -14,7 +14,7 @@ organizations:
   url: "https://dk.linkedin.com/in/rasmuslehmann"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Philine research is on gender bias, semantic annotation, and cross-lingual projection.
+bio: Rasmus researched NLP methods for detecting political alignment and stance
 
 # Social/Academic Networking
 social:
