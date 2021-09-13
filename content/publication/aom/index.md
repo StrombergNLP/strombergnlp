@@ -17,8 +17,8 @@ tags:
 #featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Reviews
+  url: http://www.derczynski.com/resources/aom-reviews.txt
 url_pdf: 'http://www.derczynski.com/papers/annotating_online_misogyny.pdf'
 url_code: 'https://github.com/phze22/Online-Misogyny-in-Danish-Bajer'
 #url_dataset: 'https://github.com/phze22/Online-Misogyny-in-Danish-Bajer'
@@ -44,3 +44,5 @@ projects:
 - onlineharms
 
 ---
+
+<c><iframe width="728" height="410" src="https://www.youtube.com/embed/WxHmD0Kom-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></c>

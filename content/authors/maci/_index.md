@@ -6,7 +6,7 @@ title: Manuel R. Ciosici
 superuser: false
 
 # Role/position
-role: Postdoc
+role: USC/ISI
 
 # Organizations/Affiliations
 organizations:

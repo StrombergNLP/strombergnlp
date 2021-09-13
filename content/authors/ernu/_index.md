@@ -6,7 +6,7 @@ title: Erida Nurce
 superuser: false
 
 # Role/position
-role: Grad student
+role: Microsoft
 
 # Organizations/Affiliations
 organizations:

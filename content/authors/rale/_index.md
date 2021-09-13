@@ -6,7 +6,7 @@ title: Rasmus Lehmann
 superuser: false
 
 # Role/position
-role: Researcher
+role: IBM
 
 # Organizations/Affiliations
 organizations:

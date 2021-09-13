@@ -12,5 +12,9 @@ title: "Press"
 
 ## Abuse
 
+* [This New Way to Train AI Could Curb Online Harassment](https://www.wired.com/story/new-way-train-ai-curb-online-harassment/), WIRED, 2021.08.04
+* [Danske forskere blæser til kamp mod neosexisme – og det kan blive farligt](https://www.berlingske.dk/samfund/danske-forskere-blaeser-til-kamp-mod-neosexisme-og-det-kan-blive-farligt), Berlingske, 2021.08.04
+* [Neosexisme eller ydmygelser?: Ny undersøgelse kortlægger, hvordan kvinder bliver chikaneret på nettet](https://www.dr.dk/nyheder/indland/neosexisme-eller-ydmygelser-ny-undersoegelse-kortlaegger-hvordan-kvinder-bliver), Danmarks Radio, 2021.08.03
+* [Ny dansk teknologi kan fange sexisme på internettet: 'Kvinder afholder sig fra at deltage i debatter'](https://www.dr.dk/nyheder/indland/ny-dansk-teknologi-kan-fange-sexisme-paa-internettet-kvinder-afholder-sig-fra), Danmarks Radio, 2021.08.03
 * [Kvinder får flere verbale tæsk online end mænd](https://politiken.dk/kultur/art7230042/Kvinder-f%C3%A5r-flere-verbale-t%C3%A6sk-online-end-m%C3%A6nd), Politiken, 2019.05.29
 * [Vi har gjort det helt legitimt at opføre sig som et røvhul på sociale medier](https://jyllands-posten.dk/debat/kronik/ECE11457871/vi-har-gjort-det-helt-legitimt-at-opfoere-sig-som-et-roevhul-paa-sociale-medier/), Jyllands-Posten, 24.06.2019.

@@ -6,7 +6,7 @@ title: René Haas
 superuser: false
 
 # Role/position
-role: Grad student
+role: ITU Copenhagen
 
 # Organizations/Affiliations
 organizations:
