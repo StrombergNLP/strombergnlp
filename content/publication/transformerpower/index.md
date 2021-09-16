@@ -23,7 +23,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: 'https://www.aclweb.org/anthology/S17-2006.pdf'
+url_pdf: 'http://www.derczynski.com/papers/hpitlmt.pdf'
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
