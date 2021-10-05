@@ -24,7 +24,7 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: 'http://www.derczynski.com/papers/hpitlmt.pdf'
-#url_code: '#'
+url_code: 'https://github.com/mkonxd/HyperparameterPowerImpact'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
