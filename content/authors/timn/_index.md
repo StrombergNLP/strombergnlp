@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Timmie Mikkel Lagermann Nielsen
+title: Timmie Mikkel Rantzau Lagermann
 
 # Is this the primary user of the site?
 superuser: false
