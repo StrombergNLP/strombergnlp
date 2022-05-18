@@ -22,4 +22,4 @@ design:
   view: 3
   columns: "1"
 ---
-Top image credit: Alexa Steinbrück / Better Images of AI / Explainable AI / CC-BY 4.0
+

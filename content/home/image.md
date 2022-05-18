@@ -29,3 +29,5 @@ design:
 advanced:
   css_class: fullscreen
 ---
+
+Image: ITU Copenhagen, DR Byen

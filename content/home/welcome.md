@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Strømberg NLP"
 subtitle: ""
-hero_media: Alexa-Steinbruck_Explainable_AI_1275x700.jpg
+hero_media: explainable-negative.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,3 +18,4 @@ advanced:
 ---
 
 Strømberg NLP is a research unit at the IT University of Copenhagen. We are grad students, research assistants, PhD fellows, postdoctoral researchers, and faculty, working on machine learning and natural language processing.
+
